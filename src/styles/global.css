@@ -15,6 +15,7 @@
 }
 #header{
     background-color:#080808 ;
+    transition: .4s ease-in-out;
 }
 ul li a{
     color: #9C9C9C;

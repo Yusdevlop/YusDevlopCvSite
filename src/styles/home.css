@@ -1,3 +1,4 @@
+
 .section1contanier{
     background: #080808;
     height: 100%;
@@ -5,7 +6,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    
+    transition: .4s ease-in-out;
+   
 }
 
 #section1{
@@ -13,7 +15,6 @@
     height: 700px;
     width: 100%;
     
-   
 }
 
 .Name{
@@ -293,10 +294,11 @@
 }    
 
 /*---------------------------------------------SECTION 5----------------------------------------------*/
+
 .section5contanier{
     padding-left: 200px;
     padding-right: 200px;
-    background-color: #080808;
+    background-color: #000000;
     color: #ffff;
     
 }
