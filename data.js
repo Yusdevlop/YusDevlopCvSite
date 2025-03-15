@@ -1,18 +1,14 @@
 const data=[
-    {
-        image:"https://anea.az/assets/img/logo/logo-en.png",
-        text:"Anea.az",
-        link:"Anea.az"
-    },
+
     {
         image:"https://weather-web-site-gamma.vercel.app/src/img/weather02-512.webp",
         text:"Weather Website",
         link:"weather-web-site-gamma.vercel.app"
     },
     {
-        image:"https://weather-web-site-gamma.vercel.app/src/img/weather02-512.webp",
-        text:"Weather Website",
-        link:"weather-web-site-gamma.vercel.app"
+        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
+        text:"Qr Generator",
+        link:"qr-generator-lovat-two.vercel.app/"
     }
 
 
