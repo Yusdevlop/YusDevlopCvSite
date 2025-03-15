@@ -8,7 +8,14 @@ const data=[
         image:"https://weather-web-site-gamma.vercel.app/src/img/weather02-512.webp",
         text:"Weather Website",
         link:"weather-web-site-gamma.vercel.app"
+    },
+    {
+        image:"https://weather-web-site-gamma.vercel.app/src/img/weather02-512.webp",
+        text:"Weather Website",
+        link:"weather-web-site-gamma.vercel.app"
     }
+
+
 
 
   
