@@ -9,6 +9,41 @@ const data=[
         image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
         text:"Qr Generator",
         link:"qr-generator-lovat-two.vercel.app/"
+    },
+    {
+        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
+        text:"Qr Generator",
+        link:"qr-generator-lovat-two.vercel.app/"
+    },
+    {
+        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
+        text:"Qr Generator",
+        link:"qr-generator-lovat-two.vercel.app/"
+    },
+    {
+        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
+        text:"Qr Generator",
+        link:"qr-generator-lovat-two.vercel.app/"
+    },
+    {
+        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
+        text:"Qr Generator",
+        link:"qr-generator-lovat-two.vercel.app/"
+    },
+    {
+        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
+        text:"Qr Generator",
+        link:"qr-generator-lovat-two.vercel.app/"
+    },
+    {
+        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
+        text:"Qr Generator",
+        link:"qr-generator-lovat-two.vercel.app/"
+    },
+    {
+        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
+        text:"Qr Generator",
+        link:"qr-generator-lovat-two.vercel.app/"
     }
 
 
