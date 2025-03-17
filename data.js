@@ -1,5 +1,10 @@
 const data=[
-
+    {
+        image:"https://i.pinimg.com/originals/d8/10/55/d81055d32cf810a6d527b5eb9ae20f08.png",
+        text:"Search Program",
+        link:"https://search-program.vercel.app/"
+    },
+    
     {
         image:"https://weather-web-site-gamma.vercel.app/src/img/weather02-512.webp",
         text:"Weather Website",
@@ -10,41 +15,6 @@ const data=[
         text:"Qr Generator",
         link:"qr-generator-lovat-two.vercel.app/"
     },
-    {
-        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
-        text:"Qr Generator",
-        link:"qr-generator-lovat-two.vercel.app/"
-    },
-    {
-        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
-        text:"Qr Generator",
-        link:"qr-generator-lovat-two.vercel.app/"
-    },
-    {
-        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
-        text:"Qr Generator",
-        link:"qr-generator-lovat-two.vercel.app/"
-    },
-    {
-        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
-        text:"Qr Generator",
-        link:"qr-generator-lovat-two.vercel.app/"
-    },
-    {
-        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
-        text:"Qr Generator",
-        link:"qr-generator-lovat-two.vercel.app/"
-    },
-    {
-        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
-        text:"Qr Generator",
-        link:"qr-generator-lovat-two.vercel.app/"
-    },
-    {
-        image:"https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=Salam%20Aleykum",
-        text:"Qr Generator",
-        link:"qr-generator-lovat-two.vercel.app/"
-    }
 
 
 
