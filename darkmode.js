@@ -10,26 +10,33 @@ const section5box1text = document.querySelector(".section5box1text");
 const section5box2text = document.querySelector(".section5box2text");
 const section5box3text = document.querySelector(".section5box3text");
 const section5box4text = document.querySelector(".section5box4text");
-const lighticonlink = document.querySelector(".lighticonlink");
-const darkiconlink = document.querySelector(".darkiconlink");
-const iconclass =document.querySelector(".material-symbols-outlined")
+const moonicon =document.querySelector(".moonicon");
+const lighticon =document.querySelector(".lighticon");
+
+moonicon.style="display:none";
 
 darkmodebtn.addEventListener("click",()=>{
     darkmodebtn.classList.toggle("dark");
     if(darkmodebtn.classList.contains("dark")){
+        moonicon.style=`display:block`;
+        lighticon.style=`display:none`;
         header.style=`background-color:#ffff`
         section1.style =`background-color: #ffff ; `;
         titlecolorsection1.style=`color:#080808`;
         section5.style= `background-color:rgb(255, 255, 255) ; color :#080808`;
-        section5title.style=`color:#080808`
-        section5titletextalt.style=`color:#080808`
-        section5box1text.style=`color:#080808`
-        section5box2text.style=`color:#080808`
-        section5box3text.style=`color:#080808`
-        section5box4text.style=`color:#080808`
-        iconclass.innerHTML("dark_mode");
+        section5title.style=`color:#080808`;
+        section5titletextalt.style=`color:#080808`;
+        section5box1text.style=`color:#080808`;
+        section5box2text.style=`color:#080808`;
+        section5box3text.style=`color:#080808`;
+        section5box4text.style=`color:#080808`;
+        
+        
+       
         
     }else{
+        moonicon.style=`display:none`;
+        lighticon.style=`display:block`;
         section1.style =`background-color:#080808  ; `;
         titlecolorsection1.style=`#ffff`;
         section5.style= `background-color:#080808 ; color:#ffff`;
@@ -40,8 +47,8 @@ darkmodebtn.addEventListener("click",()=>{
         section5box2text.style=`color:#ffff`;
         section5box3text.style=`color:#ffffff`;
         section5box4text.style=`color:#fffff`;
+        iconclass.textContent=`light_mode`;
+        
 
-        
-        
     }
 })
